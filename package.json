@@ -1,0 +1,22 @@
+{
+  "name": "wkc-arbitrage",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@clerk/clerk-react": "^4.60.0",
+    "@supabase/supabase-js": "^2.38.3",
+    "framer-motion": "^10.16.3",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-helmet": "^6.1.0",
+    "recharts": "^2.7.2"
+  },
+  "devDependencies": {
+    "vite": "^5.2.0"
+  }
+}
